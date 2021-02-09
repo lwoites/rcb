@@ -8,7 +8,6 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Ruby Circuit Breaker}
   spec.homepage      = "https://github.com/petitviolet/rcb"
   spec.license       = "MIT"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.7.0")
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/petitviolet/rcb"
